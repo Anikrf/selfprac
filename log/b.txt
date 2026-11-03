@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-hi hello
-=======
 self practice
 self prac
->>>>>>> Changed greeting locally
